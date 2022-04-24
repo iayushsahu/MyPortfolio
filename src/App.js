@@ -65,12 +65,6 @@ const App = () => {
             return null;
           }}
         />
-        <Route
-          path="/covizine"
-          component={() => {
-            window.location.href = "https://covizine01.000webhostapp.com";
-            return null;
-          }}
         />
       </Switch>
     </Router>
