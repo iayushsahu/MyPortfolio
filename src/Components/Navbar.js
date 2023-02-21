@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Myresume from "../Files/Ayush_Sahu_22_04_22.pdf";
+import Myresume from "../Files/Ayush_sahu_resume_feb.pdf";
 import Link from "react-scroll/modules/components/Link";
 
 const Navbar = () => {
